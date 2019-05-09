@@ -1,4 +1,4 @@
-module github.com/ngrok/tableroll
+module github.com/euank/tableroll
 
 require (
 	github.com/go-stack/stack v1.8.0 // indirect
